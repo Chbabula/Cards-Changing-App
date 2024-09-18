@@ -1,0 +1,29 @@
+.mainContainer{
+    margin: 10px auto;
+    width: 300px;  
+    background: #0b0b0b;
+    color: white;
+    overflow: hidden;
+    border: 1px solid #fccf03;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+
+.imgContainer img{
+    height: 200px;
+    overflow: hidden;
+}
+.cardTitle{
+    width: 100%;
+    padding: 0 10px;
+}
+.cardTitle h1{
+    font-size: 16px;
+}
+.desc{
+
+    padding: 0 10px;
+}
+
+.desc p{
+    font-size: 13px;
+}
